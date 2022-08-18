@@ -1,0 +1,15 @@
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.exe
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.deps.json
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.runtimeconfig.json
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.dll
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.pdb
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.csproj.AssemblyReference.cache
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.AssemblyInfoInputs.cache
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.AssemblyInfo.cs
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.csproj.CoreCompileInputs.cache
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.dll
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\refint\HomeWork_Task19.dll
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.pdb
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.genruntimeconfig.cache
+C:\GB_education\CSharpMeeting3\HomeWork_Task19\obj\Debug\net6.0\ref\HomeWork_Task19.dll
